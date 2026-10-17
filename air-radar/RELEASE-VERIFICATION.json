@@ -1,0 +1,56 @@
+{
+  "firmware": "Air Radar 3.0.0",
+  "reset_returns_first_time_setup": true,
+  "tracking_tests": {
+    "passed": 28,
+    "failed": 0
+  },
+  "route_tests": {
+    "passed": 19,
+    "failed": 0
+  },
+  "configuration_tests": {
+    "passed": 14,
+    "failed": 0
+  },
+  "invalid_configuration_rejected": true,
+  "live_pc_feed_verified": true,
+  "owner_wifi_and_location_retained": true,
+  "live_standalone_wifi_verified": true,
+  "https_verification_enabled": true,
+  "setup_secret_redaction_checked": true,
+  "board_ip_available": true,
+  "post_restart": {
+    "settings_survived_restart": true,
+    "live_wifi_after_restart": true,
+    "prism_orientation_retained": true,
+    "firmware": "Air Radar 3.0.0"
+  },
+  "access_checks": {
+    "lan_setup_api_blocked": true,
+    "nul_packet_rejected_without_poisoning_next_request": true
+  },
+  "phone_browser_scope": "The shared setup page and AP configuration were checked internally; a separate physical phone was not used for a captive-portal walkthrough.",
+  "date": "2026-10-17",
+  "python_unit_tests": {
+    "passed": 38,
+    "failed": 0
+  },
+  "browser_form_test": "USB selection, location fields, submit, status and responsive layout checked",
+  "scope": "Internal verification, not independent security certification",
+  "owner_settings": "Retained on the development unit; never part of this release",
+  "user_usb_walkthrough": {
+    "date": "2026-10-17",
+    "first_time_setup_completed": true,
+    "live_usb_feed_acknowledged_by_board": true,
+    "physical_prism_display_confirmed_by_user": true
+  },
+  "github_packaging": {
+    "date": "2026-10-17",
+    "clean_source_build_passed": true,
+    "python_unit_tests_passed": 38,
+    "packaged_firmware_images_verified": 4,
+    "firmware_changed_for_packaging": false,
+    "github_actions_run": "Not run on GitHub; equivalent tests and source build passed locally."
+  }
+}

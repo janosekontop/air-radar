@@ -1,0 +1,16 @@
+{
+  "source": "Screenshot 2026-10-08 004307-Photoroom.png",
+  "source_sha256": "f8af7335dd821440d710b0b125eefc826c32b1336c0b2796b5a262329e885a9a",
+  "alpha_crop": [
+    23,
+    13,
+    168,
+    170
+  ],
+  "dimensions": [
+    22,
+    24
+  ],
+  "firmware_mask_bytes": 264,
+  "render_colour": "#FF55B7"
+}

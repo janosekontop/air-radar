@@ -1,0 +1,2 @@
+-r requirements.txt
+platformio==6.2.0

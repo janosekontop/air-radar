@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-17",
+  "files_scanned": 61,
+  "private_value_matches": 0,
+  "checked": [
+    "owner name and user-profile path",
+    "saved Wi-Fi network and password",
+    "former home branding/coordinates",
+    "development board identifier"
+  ],
+  "excluded": [
+    "NVS/full-flash dumps",
+    "configured unit settings",
+    "ELF/map/build caches",
+    "runtime logs and route cache",
+    "private recovery helpers"
+  ],
+  "firmware_has_no_owner_settings": true,
+  "distribution": "GitHub repository and source ZIP; clean release files only",
+  "git_commit_identity": "Generic project identity; no personal email"
+}
